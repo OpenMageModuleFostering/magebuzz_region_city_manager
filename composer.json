@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/magebuzz_region_city_manager",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Region & City Manager Magento extension",
+    "authors": [
+    {
+        "name": "Magebuzz",
+        "email": "magebuzz@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
