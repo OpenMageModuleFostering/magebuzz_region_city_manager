@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/magebuzz_region_city_manager",
+    "name": "openmage-module-fostering\/magebuzz_region_city_manager",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Region & City Manager Magento extension",
     "authors": [
